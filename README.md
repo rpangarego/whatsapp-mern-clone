@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Whatsapp Clone MERN (Frontend)
+
+This repo is the frontend side of Whatsapp MERN (Frontend) using ReactJS. 
+To see the backend side of this app here's the link : https://github.com/rpangarego/whatsapp-mern-clone-backend
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
